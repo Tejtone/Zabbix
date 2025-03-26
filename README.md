@@ -44,6 +44,7 @@ Uruchom skrypt zabezpieczający MySQL:
 ```
 
 Postępuj zgodnie z instrukcjami:
+```
 VALIDATE PASSWORD COMPONENT can be used to test passwords
 and improve security. It checks the strength of password
 and allows the users to set only those passwords which are
@@ -79,7 +80,7 @@ made so far will take effect immediately.
 Reload privilege tables now? (Press y|Y for Yes, any other key for No) : y
 Success.
 All done!
-
+```
 ### 4. Dodaj repozytorium Zabbix
 
 ```bash
