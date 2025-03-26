@@ -120,7 +120,7 @@ zcat /usr/share/zabbix/sql-scripts/mysql/server.sql.gz | mysql --default-charact
 
 4. Przywróć ustawienie `log_bin_trust_function_creators`:
 
-```bash
+```sql
 mysql -uroot -p
 SET GLOBAL log_bin_trust_function_creators = 0;
 QUIT;
