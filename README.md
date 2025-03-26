@@ -1,7 +1,4 @@
-# Instalacja Zabbix z MySQL
+# Zabbix
 
-Ten repozytorium zawiera krok po kroku instrukcję instalacji Zabbixa z MySQL na systemie Linux opartym na RHEL (np. Rocky Linux 9).
+To repozytorium jest częścią mojego procesu nauki i pracy nad instalacją i konfiguracją Zabbixa. Obecnie tworzę dokumentację dotyczącą instalacji serwera Zabbix oraz agenta Zabbix. Projekt jest w fazie rozwoju, więc instrukcje mogą być aktualizowane w miarę postępu prac.
 
-## Wymagania wstępne
-
-Upewnij się, że masz uprawnienia root lub sudo na swoim systemie. Upewnij się także, że Twój system jest zaktualizowany i ma połączenie z siecią w celu pobrania niezbędnych pakietów.
