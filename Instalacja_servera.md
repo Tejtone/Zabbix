@@ -6,7 +6,6 @@ Ten repozytorium zawiera krok po kroku instrukcję instalacji Zabbixa z MySQL na
 
 Upewnij się, że masz uprawnienia root lub sudo na swoim systemie. Upewnij się także, że Twój system jest zaktualizowany i ma połączenie z siecią w celu pobrania niezbędnych pakietów.
 
----
 
 ## Kroki instalacji
 
@@ -158,7 +157,6 @@ sudo firewall-cmd --permanent --add-port=80/tcp
 firewall-cmd --reload
 ```
 
----
 
 ## Dostęp do interfejsu webowego Zabbix
 
